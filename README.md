@@ -18,6 +18,12 @@ In order to have the system within your device, follow the steps given:
 ```
 composer create-project laravel/laravel ABCD
 ```
+- Clone the repository from github and cd into the repository(I prefer to use SSH but use whatever suits you):
+```
+git@github.com:ruman-hassan/ABCD.git
+cd ABCD
+```
+
 
 - Navigate to your newly created project and run these commands in your terminal:
  ```
